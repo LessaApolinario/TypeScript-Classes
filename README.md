@@ -1,4 +1,4 @@
-# Interfaces
+# Classes
 
 Forma de modelar dados para a criação de um objeto, a sua própria materialização, representa toda a abstração por trás de algo que podemos visualizar no mundo real.
 
